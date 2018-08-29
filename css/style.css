@@ -1,0 +1,15 @@
+.carousel {
+  margin: auto;
+  width: 800px;
+  height: 600px;
+}
+
+.form-group {
+  margin: auto;
+  width: 400px;
+  height: 100px;
+}
+
+.btnalign {
+  text-align: center;
+}
