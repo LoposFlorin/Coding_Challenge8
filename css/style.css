@@ -47,3 +47,8 @@
     height:auto;
   }
 }
+
+.btnstyle {
+    display: block;
+    width: 100%;
+}
